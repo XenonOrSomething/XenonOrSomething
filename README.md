@@ -1,6 +1,6 @@
-hi, im xenon
+  - hi, im xenon
 
-i do stuff whenever i feel like it
+  - i do stuff whenever i feel like it
 
 <!---
 XenonOrSomething/XenonOrSomething is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

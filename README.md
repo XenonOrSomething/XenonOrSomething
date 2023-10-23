@@ -20,7 +20,7 @@ i know these:
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></img>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></img>
 
-![](https://github-readme-stats.vercel.app/api?username=xenonorsomething&show_icons=true&theme=synthwave)
+![a](https://github-readme-stats.vercel.app/api?username=xenonorsomething&show_icons=true&theme=synthwave)
 
 
 
